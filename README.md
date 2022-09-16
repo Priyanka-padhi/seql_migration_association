@@ -1,0 +1,1 @@
+Created a program using Sequelize-cli and association
